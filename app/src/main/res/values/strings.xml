@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My BMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_bmicalculation">BMICalculationActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_tracking">TrackingActivity</string>
+    <string name="title_activity_nutri">NutriActivity</string>
+</resources>
