@@ -86,6 +86,14 @@
                 android:paddingLeft="3dp"
                 android:layout_gravity="center_vertical" />
 
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView_female"
+                android:src="@drawable/male"
+                android:layout_marginLeft="5dp"
+                android:paddingLeft="3dp"
+                android:layout_gravity="center_vertical" />
         </LinearLayout>
 
         <LinearLayout
